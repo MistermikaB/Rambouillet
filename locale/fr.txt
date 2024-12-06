@@ -1,0 +1,86 @@
+#: locale=fr
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_0F3BA76A_1D8F_57B3_41A0_E05DE164C592.url = https://www.pixxl.fr/
+LinkBehaviour_1ED11EEE_1211_9EFD_41A9_A5375783D008.source = https://www.rambouillet.fr/
+LinkBehaviour_01298FC9_1305_DDF0_4164_C62104A683E0.source = https://www.yoonseux.org/
+
+## E-Learning
+
+### Question Screen
+quizQuestion_FF5D8CD7_F2E1_4685_41BE_D1E7F9D6B2E3.ok = OK
+
+### Report Screen
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.title = - SCORE -
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.completion = Completed
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.questionsCorrect = Correct
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.downloadCSV = Download .csv
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.questionsIncorrect = Incorrect
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.items = Items Found
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.questions = Questions
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.repeat = Repeat
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.submitToLMS = Submit
+quizScore_FF5FECD9_F2E1_468A_41D1_18F0F94ED491.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_FF5D8CD7_F2E1_4686_41E9_7263DAAF322E.title = - TIMEOUT -
+quizTimeout_FF5D8CD7_F2E1_4686_41E9_7263DAAF322E.repeat = Repeat
+quizTimeout_FF5D8CD7_F2E1_4686_41E9_7263DAAF322E.score = View Score
+
+## Media
+
+### Audio
+audiores_131A5D40_1C08_F8E3_41B9_A32B1C386749.mp3Url = media/audio_053C5952_1734_18A9_417F_EFCADE59C223_fr.mp3
+
+### Audio Subtitles
+
+### Subtitle
+panorama_1DB5A6A5_16F4_098F_41B6_6C9E29912835.subtitle = 01
+panorama_17C3B363_1C08_A8D6_4194_506F3F5703AF.subtitle = 02
+panorama_12732EFE_1C09_B9A1_4196_9F196A887B00.subtitle = 03
+panorama_1262C970_1D9F_FB88_41B5_1F0F265F8B1F.subtitle = 04
+panorama_1C1F03F4_1230_A6F5_4145_B4B0C2D62848.subtitle = 05
+panorama_18BF2BE2_16F4_1F84_4184_DA8F89217F85.subtitle = 06
+panorama_1F905AB3_1233_A173_4181_6792ABF730D7.subtitle = 07
+
+### Title
+panorama_1DB5A6A5_16F4_098F_41B6_6C9E29912835.label = Cour élementaire
+panorama_18BF2BE2_16F4_1F84_4184_DA8F89217F85.label = Cour élémentaire
+panorama_17C3B363_1C08_A8D6_4194_506F3F5703AF.label = Galerie
+panorama_1262C970_1D9F_FB88_41B5_1F0F265F8B1F.label = Hall d'entrée
+panorama_1F905AB3_1233_A173_4181_6792ABF730D7.label = Salle d'EPS
+panorama_1C1F03F4_1230_A6F5_4145_B4B0C2D62848.label = Salle d'activités
+panorama_12732EFE_1C09_B9A1_4196_9F196A887B00.label = Self
+
+## Skin
+
+### Image
+Image_029E3BF7_131D_4590_419D_1747130C53BA.url = skin/Image_029E3BF7_131D_4590_419D_1747130C53BA_fr.png
+Image_182B9AE6_0D38_494F_4186_382493DDA271.url = skin/Image_182B9AE6_0D38_494F_4186_382493DDA271_fr.png
+
+### Multiline Text
+HTMLText_E7801271_F361_3D8D_41EB_B1A5CCB47A43.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>Trouve les robots NAO qui se sont cachés dans l'école!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:17px;"><B>{{quiz.items.found}}</B></SPAN><SPAN STYLE="font-size:17px;"><B>/{{quiz.item.count}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rambouillet
+
+## VR Menu
+
+### Text
+MenuItem_0C3C46CC_1D9C_A9BF_413E_5E2FA4057228.label = Cour élementaire
+MenuItem_0C3D36CB_1D9C_A9B9_41B7_E85D3534A352.label = Cour élémentaire
+MenuItem_0C3D26CB_1D9C_A9B9_4184_62AA845D617C.label = Galerie
+MenuItem_0C3C56CC_1D9C_A9BF_41B4_8FD335F9AB98.label = Hall d'entrée
+Menu_188DC164_0EF8_5B4E_41A9_A5CCDC2A7798.label = Media
+MenuItem_0C3D16CB_1D9C_A9B9_41B6_8A3DFDD1193C.label = Salle d'EPS
+MenuItem_0C3DD6CC_1D9C_A9BF_41A3_BF34F8BF35D3.label = Salle d'activités
+MenuItem_0C3D96CC_1D9C_A9BF_4169_E1B694AF97EC.label = Self
